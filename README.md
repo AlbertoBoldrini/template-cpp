@@ -1,1 +1,1 @@
-# C++ Template for vscode
+# C++ Template
